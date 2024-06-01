@@ -20,3 +20,7 @@
 - primary button background
 - outline button text color
 - button hover/focus shadow
+
+## script to run the sass file
+
+sass --watch variable-challenge.scss ../css/variable-challenge.css
